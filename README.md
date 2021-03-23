@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @easytee or Mohamed Tee
+- 👋 Hi, I’m @easytee or Mohamed Tunis
 - 👀 I’m interested in becoming system engineer and backend developer
 - 🌱 I’m currently learning ..python.
 - 💞️ I’m looking to collaborate on projects given to us by our school.
-- 📫 How to reach me at anytime via==
+- 📫 How to reach me at anytime ahmedtunis7@yahoo.com
 
 <!---
 easytee/easytee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
